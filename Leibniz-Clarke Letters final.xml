@@ -1,0 +1,1044 @@
+<?xml version="1.0"?>
+<Dialog team="1">
+	<Participants>
+		<Person nickname="Leibniz"/>
+		<Person nickname="Clarke"/>
+	</Participants>
+ Leibniz-Clarke papers G. W. Leibniz and Samuel 
+Clarke Clarke 1: (26.xi.1715) 
+<Body>
+<Turn nickname="Leibniz" nr="1">Leibniz's first paper (November 1715)
+		<Utterance genid="1" ref="-1"> 1  Natural religion seems to be 
+greatly on the decline -in England-, where many people hold that human souls are made of matter, and 
+others contend that God himself is a corporeal being, -i.e. a body-. </Utterance>
+		<Utterance genid="2" ref="-1">2 Locke and his  followers aren't sure 
+whether the soul is material and naturally perishable. </Utterance>
+		<Utterance genid="3" ref="-1">3 Newton says that 
+space is an organ-like a sense-organ- by which God senses things. But if God  needs an organ to sense things by, it follows that they don't depend entirely on him and weren't produced by him.
+		<!-- Clarke  translates Leibniz as speaking of how God &apos;perceives&apos; things; but the verb Leibniz uses is  sentir, a cognate of sens (&apos;sense&apos;), so that &apos;sense&apos; seems right. In his 87 on page 43, Leibniz says that this verb  shouldn&apos;t be used for what God does unless it is purged of its implication of passivity; and it&apos;s just a fact  about word-usage at that time that the tie between -sensing and -being acted on was much stronger and more obvious that  any tie between -perceiving and -being acted on. -->
+		</Utterance>
+		<Utterance genid="4" ref="-1">4 Newton and his followers also have a very odd opinion regarding God's 
+workmanship. According to them, God's watch -the universe- would stop working if he didn't  re-wind it from 
+time to time! He didn't have enough foresight to give it perpetual motion. This  machine that he has made is 
+so imperfect that from time to time he has to clean it by a miraculous  intervention, and even has 
+to mend it, as a clockmaker mends his work. The oftener a clockmaker has to adjust his machine and set it  right, the clumsier he must be 
+as a clockmaker! In my view, the world always contains the same -amount of- force and  energy, which changes only by 
+passing from one material thing to another in accordance with the laws of nature and the  beautiful order -that 
+			God has- pre-established. And I hold that when God works miracles, he does it  not to meet the needs 
+of nature
+			but to meet the needs of grace. Anyone who thinks differently must have  a very mean notion of 
+the wisdom and power of God.</Utterance>
+	</Turn>
+	<Turn nickname="Clarke" nr="1">Clarke's first reply (26 November 1715)	
+	<Utterance genid="5" ref="1">1 
+Some  people in England (and in other countries!) reject natural religion or get it all wrong; that is very true, and much to be lamented. 
+			But. . . this is largely due to the false philosophy of the materialists-a philosophy that clashes more directly than any 
+other  with the mathematical principles of philosophy. It's also very true that some people say that the soul
+			s of men are bodies, and others say this even about God himself; but those who do so are the  
+great enemies of the mathematical principles of philosophy-principles that prove that matter (or  
+body) is the smallest and most inconsiderable part of the universe.</Utterance>
+		<Utterance genid="6" ref="2"> 2 Locke did write some things implying that he wasn't sure  
+whether the -human- soul was immaterial or not; but the only people who have followed him in this are  
+some materialists, who are enemies to the mathematical principles of philosophy, and who accept little or nothing from  
+Locke except his errors.</Utterance>
+		<Utterance genid="7" ref="3"> 3 Newton doesn't say that space is the organ God uses to perceive  
+things by, or that God needs any medium by which to perceive things. Quite the contrary! His view is that because 
+			God is omnipresent--present everywhere--he perceives all things just by being -immediately present to them, i.e. by  
+being exactly where they are, wherever in space that might be; and for this he doesn't need the help of an organ  (or 
+anything else) to -mediate between himself and the things he perceives. Trying to make this easier to grasp, Newton illustrates it by  a 
+comparison: The mind of man is immediately present to the pictures or images of things that are formed in the brain by means of the  
+sense-organs, and it -immediately- sees those pictures. and similarly: God is immediately present to all things in the  
+universe, and immediately sees those things. (Whereas God immediately perceives the things, the human mind perceives  
+the pictures as if they were the things.) In the human case, Newton regards the brain and sense-organs as the means by which -those  
+pictures are formed, not as the means by which -the mind perceives those pictures once they have been formed. And in God
+'s case, Newton doesn't regard things as if they were pictures that had been formed by certain means or organs; he regards them  as real 
+things that God himself -has formed and -sees in all the places where they are, without the help of any  intermediary. 
+This comparison is all that he means when he supposes infinite space to be (as it were) the sensorium of -God
+			-, the omnipresent being. <!-- In one of its two main meanings, &apos; sensorium &apos; stood for the part of the  brain where 
+sensory images (or their material counterparts or underlays) occur. There was no standard view about what part of the brain  this was; but 
+it was assumed that there must be one - sensory images had to have their brain counterparts somewhere, and  &apos;sensorium&apos; was the 
+name of the appropriate &apos;somewhere&apos;. -->
+		</Utterance>
+		<Utterance genid="8" ref="4"> 4 Among humans, the maker of a machine is rightly  regarded as skillful in 
+proportion to how long a machine that he has made will work properly without any further tinkering by him. Why? It 's because he exercises 
+his skill only in constructing, adjusting, or putting together certain moving parts-such as weights and  springs-whose source of motion is 
+a set of forces that are entirely independent of him; he arranges them in various  ways, but he didn't 
+make them. But with regard to God, the case is quite  different: as well as assembling things into 
+structures, he is himself the author and continual preserver of their basic forces or powers of motion. So the fact 
+that nothing happens without his continual regulation and oversight is a -true glory of his  workmanship and not -something that detracts 
+from it. The idea that the world is a great machine that goes on without intervention by God, like a clock ticking 
+along without help from a clockmaker-that's the idea of materialism and fate. Under  cover of declaring God to be a 
+supra-mundane intelligence <!-- = &apos;a thinking being who is above the world&apos; -->, it aims to exclude providence and God
+			's government from the world. And the reasoning that will lead The passage  referred to is as follows: 'The sensory <!-- = 
+&apos;sensorium&apos; --> of animals is the place -in the brain- to which the sensing  mind is present, and into which the sensible 
+species of things <!-- roughly = &apos;whatever it is that perceived things transmit to the  sense-organs&apos; --> are carried through 
+the nerves and brain, so that they can be perceived there because of their immediate presence  to that mind.' a philosopher to maintain 
+that From the beginning of creation, everything has happened without any regulation or  intervention by God, will 
+enable a sceptic to argue back further, maintaining that From all eternity things have gone  on as they now do, without any real creation 
+or any creator, depending on nothing but an all-wise and eternal 'Nature'. Suppose a king had a kingdom 
+in which everything continually went on without his regulation or  interference-without his attending to and ordering what is done in his 
+realm-it would be a 'kingdom' only in name, not in  reality, and this 'king' wouldn't deserve that title. -Well, there's no smoke without 
+a fire-! If someone claims that  in an earthly government things can go on perfectly well without the king's ordering or dealing with 
+anything, we can reasonably  suspect him of wanting to get rid of the king altogether. Similarly, anyone who maintains that the world can 
+continue to run its course  without the continual direction of God the supreme governor has a doctrine that does have 
+the effect of excluding God from the world.</Utterance>
+	</Turn>
+	<Turn nickname="Leibniz" nr="2">Leibniz's second paper <Utterance genid="9" ref="5">To Clarke's 1 
+			<page n="1"/> 1 I agree. . . that  the principles of the materialists contribute greatly to the spread of impiety. 
+			But I see no reason to add  that the mathematical principles of philosophy are -opposite to those of the 
+materialists. Really they are -the same,  with just this difference: The materialists who follow Democritus, Epicurus and Hobbes confine 
+themselves altogether to mathematical principles <!-- i.e. to physics, with no admixture of anything else --> , and 
+hold that nothing exists but bodies; whereas the Christian mathematicians
+			<!-- i.e. Newton and his 
+followers --> allow that there are also  immaterial substances. What ought to be set up against materialism, therefore, are not -
+mathematical principles (taking  this phrase in its usual sense) but rather -metaphysical principles. 
+Pythagoras, Plato, and Aristotle had some knowledge  of metaphysical principles, but I claim to have established them in 
+my book Theodicy; it is written in an informal manner  for the general reader, but my proof is perfectly rigorous. The 
+great foundation of mathematics is the  principle of contradiction or identity, i.e. that a proposition can't be true 
+and false at the same time, so that  A is A and can't be not-A. This principle is all we need to demonstrate every part 
+of arithmetic and geometry, i.e. to demonstrate  all mathematical principles. But, as I pointed out in 
+Theodicy, the move from mathematics to natural philosophy <!-- here = &apos;physics&apos; --> requires a further 
+principle, namely the principle of the need for a  sufficient reason, which says that for anything that is the case there's a reason why 
+it should be so rather than otherwise. That is  why Archimedes, wanting to move on from mathematics to natural 
+philosophy in his book on equilibrium, had to use a  special case of the great principle of sufficient reason. Suppose you have a 
+perfectly symmetrical balance and that you put equal weights  in its two pans. Nothing will move; and Archimedes saw why-it's because no 
+reason can be given why one side should go down rather  than the other. Using just that one principle-that there has to be a sufficient 
+reason why things should be as they are and not  otherwise-we can demonstrate the existence of God and all the rest of 
+metaphysics and natural theology. We can even  demonstrate, in a way, principles of natural philosophy that don't depend on 
+mathematics-I mean the dynamic  principles, i.e. the principles of force. </Utterance>
+		<Utterance genid="10" ref="5">2 Clarke goes on to say that 
+according to Newton's physics matter is the most inconsiderable part of the universe.2 That is because Newton admits 
+empty space as well as matter, and holds that matter fills up only a very small 
+part of space. But Democritus and Epicurus maintained the same thing, except that they may have 
+believed there to be more matter in the world than Newton will allow; and as to that, I think their opinion is 
+preferable to his, because the more matter there is the more opportunity God has to exercise his 
+wisdom and power. And that is just one of  several reasons that I have for holding that there is no empty space at all. 
+To Clarke's 3 <ref n="2"/>
+		</Utterance>
+		<Utterance genid="11" ref="7">3 In the  Appendix to his Optics I find Newton saying explicitly that space is the 
+sensorium of God; and ' sensorium' has always signified the organ of sensation. If he and his friends now see fit to 
+mean something different by it, I shan 't object.</Utterance>
+		<Utterance genid="12" ref="7"> 4 Clarke supposes that the -mere- presence of the soul is 
+sufficient to make it aware of what happens  in the brain. <!-- The verb phrase &apos;to be aware of&apos; translates s&apos;apercevoir 
+de. Clarke always translates this by  &apos;perceive&apos;, but that is wrong. In these papers Leibniz hardly ever uses 
+percevoir = &apos;perceive&apos;, and  not once does he speak of what God perceives. It is always what 
+God &apos;senses&apos;, &apos;is  aware of&apos;, or (once) &apos;discerns&apos;. -->
+			But this is just 
+what Malebranche and all the Cartesians deny; and  they are right to do so. For x to represent what happens in y, mere presence isn't 
+enough; there has to be something that explains  what x and y have to do with one another-either -one acts on the other, or -both are 
+acted on by a single cause. -Of course mere presence  isn't enough-. According to Newton, -a region of- space is 
+intimately present to the body that it contains and  that has the same shape and size as it does; would he infer from this that 
+space is aware of what happens in a body and  remembers it when the body has moved on? -And when it comes to the presence of the 
+			soul, the trouble is even worse-.  The soul is indivisible; -it has no size-; so if we try to tell a 
+story about its 'presence' in the body, it  could be present only at a point; so how could it be aware of what happens outside that point? 
+I claim to be the first person to show how  the soul becomes aware of what happens in the body. </Utterance>
+		<Utterance genid="13" ref="7">5 The reason why 
+			God is aware of everything is  not just his -presence but also his -activity; he preserves things by an 
+action that continually produces whatever is good  and perfect in them, -and of course he is aware of what he is doing-. But
+			 the correspondence between soul and body can't be -even partly- explained by their being present to each other, 
+because neither of them has any immediate  influence over the other. To Clarke's 4 <ref n="2a3"/>
+		</Utterance>
+		<Utterance genid="14" ref="8">6 When we commend a machine, that 
+is primarily because of what -it does, not  because of what -caused it; and what this reflects in the designer of the machine is his 
+-skill, not his -power. So the reason Clarke  gives for praising God's Actually, he says that 'mathematical
+			 principles' have that  consequence, but it's really Newton's system that he is talking about. 
+Mathematical  principles, -properly so-called-, have nothing to say about this. machine-namely, that he made it entirely, 
+without bringing in any  materials from outside-isn't good enough. How does God surpass every other machine-maker? 
+Well, -Clarke's  reason is a part of the story-: God makes the whole thing, whereas others have to be given materials 
+to work upon; so  he surpasses them in -power. But
+			God's excellence also has another source, namely his 
+-wisdom,  which shows in his machine's lasting longer and moving more regularly than machines made by anyone else. When you buy a watch 
+you don 't care whether the watchmaker made every part of it himself or got the parts from elsewhere and merely assembled them to make 
+the  watch-provided the watch goes right! Even if the workman had a God-given ability to create the matter
+			that the wheels are made of, what you as the buyer of the watch will want to know is whether he had a different God
+			-given ability, namely the gift of assembling the parts to make a watch that runs properly! Similarly, someone looking for 
+reasons to be  pleased with God's work will want a better reason than the one that Clarke has produced. His supposed 
+reason is  really just a dodge that he was forced into -by his refusal to credit God's machine with 
+the  absolute regularity that is its chief glory-. </Utterance>
+		<Utterance genid="15" ref="8">7 God's skill has to be infinitely superior to that of a 
+-human-  workman. The mere facts about what he produces do show God's power, but don't adequately  
+convey his wisdom. Those who think otherwise-acknowledging the power but not properly admitting the wisdom of the source  
+of things-will fall into exactly the same error as the materialists and Spinoza, though they try to keep them at arms' length. </Utterance>
+		<Utterance genid="16" ref="8">8 I 
+'m not saying that the material world is a machine (a watch, say) that runs without God's intervening, and I  have 
+pretty strongly insisted that the things he has created need his continual influence. But I do say that the material  
+world is a watch that runs without needing to be mended by God; otherwise we would have to say that God
+			 changes his mind! -In fact-, God has foreseen everything; and for anything that might go wrong he has  
+provided a remedy in advance. There is in his works a harmony, a pre-established beauty. </Utterance>
+		<Utterance genid="17" ref="8">9 This opinion doesn't exclude God
+			's providence or his government of the world; on the contrary, it makes it perfect. A true divine providence requires  perfect 
+foresight-and also provision in advance for any remedies that will turn out to be needed. Otherwise God must be  
+lacking either in the wisdom to foresee things or the power to provide for them in advance. He'll be like the God  of 
+the Socinians <!-- fore-runners of the unitarians --> , who 'takes each day as it comes', as Jurieu says. In fact the  Socinians' 
+God doesn't even -foresee things' going wrong, whereas the Newtonians I am arguing with say  only that he doesn't -provide 
+against them, and so has to fix them as they occur. Even this strikes me as a great lack; it implies  that God is 
+lacking either in power or in good will. </Utterance>
+		<Utterance genid="18" ref="8"> 10 I don't see anything wrong with my saying that God is intelligentia 
+supramundana <!-- 4 on page 2 --> . Will those who criticize this say that he is intelligentia mundana <!-- =  &apos;a thinking being who 
+is in (or of) the world&apos; --> , i.e. the soul of the world? I hope not! But they had better watch 
+out that they don't carelessly end up in that position. </Utterance>
+		<Utterance genid="19" ref="8"> 11 Clarke's example of a kingdom in which  everything goes well without 
+the king's getting involved in any way is irrelevant to our present topic; because Godcontinually preserves everything 
+and nothing can exist without him. His kingdom is not a kingdom in name only and not in reality! Another  example: A king takes care to 
+have his subjects well brought up, providing for their needs so that they keep their abilities and good  dispositions-doing this so 
+thoroughly that he never needs to fix anything that has gone wrong. Is he 'a king only in name'? </Utterance>
+		<Utterance genid="20" ref="8">12 A  final point: If God
+			 has to mend the course of nature from time to time, he must do it 
+either -supernaturally or -naturally. If -supernaturally, this is appealing to miracles in order to explain  natural things; and that 
+amounts to a reductio ad absurdum of this hypothesis <!-- i.e. it refutes the hypothesis by showing that  something absurd follows from it 
+--> , for once you let in miracles anything can be 'explained' with no trouble at all. And if God's mending is done 
+-naturally, then rather than being intelligentia supramundana he is included in the nature of things-i.e. is the 
+			soul of the world.</Utterance>
+	</Turn>
+	<Turn nickname="Clarke" nr="2">Clarke's second reply (10 January 1716)  <Utterance genid="21" ref="9">1 <page n="3"/>
+ When I said that the mathematical principles of philosophy are opposite to those of the materialists, I  meant this 
+contrast: -Materialists think that the whole order of nature could have arisen from mere mechanical  principles of 
+			matter and motion, acting -blindly and -inevitably. -The mathematical principles of  philosophy show 
+that, on the contrary, the state of things (the constitution of the sun and planets) must have had a cause that was acting  -thoughtfully 
+and -freely. As for what the principles in question should be called: to the extent that metaphysical consequences follow  rigorously from 
+			mathematical ones, to that extent one could call the mathematical principles ' metaphysical', if one 
+wanted to. It is very true that nothing exists without there being a sufficient reason why it exists why it is  thus rather than so. So 
+where there is no cause, there can be no effect. But often this sufficient reason is simply the  will of God
+			. <!-- NB: Now comes the kick-off for what will be the most famous topic of this exchange. --> For an  example, consider two 
+material things (particles or complexes) that are exactly alike and are -of course- in different places. Why are  they situated as they 
+are rather than the other way around? Why is x here and y there, rather than y here and x there? So far as bits of matter
+			 are concerned, one place is the same as another, so that if the locations of x and y had been switched it would  have been 
+exactly the same thing <!-- the italicised words are exactly Clarke&apos;s --> . So the only reason there can be for the two  things to be 
+where they are rather than vice versa is the mere will of God. If God couldn't  choose without a 
+predetermining cause, any more than a balance can move without an imbalance of weights, this would tend to take away all  power of 
+choosing, and to introduce fatality. <!-- We&apos;ll find that &apos;fatality&apos; is a hard word to pin down. It connects with  
+&apos;fate&apos;, whose Latin root connects-as Leibniz will point out later-with &apos;decree&apos;. Its broad meaning is: the thesis 
+that  whatever happens was inevitable, &apos;fated&apos; to happen. -->
+		</Utterance>
+		<Utterance genid="22" ref="10">2 <ref n="4"/> Many ancient Greeks, who derived their 
+philosophy from  the Phoenicians and had it corrupted by Epicurus, did indeed believe in matter and vacuum; 
+but they  -were unlike Newton in a way that Leibniz doesn't mention, namely they- didn't know how put mathematics 
+to  work in using those matter-and-vacuum principles to explain the phenomena of nature. -As for 
+the  question of how much matter we should think there is-: Even if there isn't much matter, that  
+doesn't reduce God's scope for exercising his wisdom and power, because he can act wisely and powerfully on  things 
+other than matter. Re-applying Leibniz's amount-of-matter argument, we could say that  there must be 
+infinitely many men (and infinitely many dogs, horses, lions etc.), so as to give God enough scope for  the full 
+exercise of his power and wisdom. </Utterance>
+		<Utterance genid="23" ref="11">3 <ref n="4"/> The word 'sensorium', used properly, refers not to the organ of  sensation 
+but to the place of sensation. The eye, the ear etc. are organs, but not sensoria <!-- = plural  of sensorium 
+--> . Besides, Newton doesn't say that space is the sensorium -of God-. He merely  offers a 
+comparison, saying that space is as it were the sensorium etc. </Utterance>
+		<Utterance genid="24" ref="12">4 <ref n="4"/> It was never supposed that the  
+presence of the soul was -sufficient for perception to occur, only that it is -necessary for it. If it weren't  present 
+to the images of the things perceived, the soul couldn't possibly perceive them: but being  present 
+isn't enough for perception, because only a living substance can have a perception. A present inanimate substance doesn' t perceive 
+anything; and a living substance can perceive things only if it is present to -the things themselves (as the omnipresent God
+			 is to the whole universe) or present to -the images of the things (as the soul of man is in its  own 
+sensorium). Nothing can act or be acted on where it isn't present, just as nothing can exist where it isn't -present-! The soul
+			's being indivisible doesn't imply that it can be present only at a mere point. Space-finite or infinite-is 
+absolutely indivisible. It isn't even conceptually divisible; to imagine parts of space  moving away from one another 
+is to imagine them, as Newton has remarked, moved out of themselves! Yet space is not a  mere point. </Utterance>
+		<Utterance genid="25" ref="13">5 <ref n=
+"c4"/>
+			God perceives things, not indeed by -being merely present to them or by -acting on them, but by 
+-being a living, thinking thing as well as an omnipresent one. Similarly with the -human- soul: it  perceives things 
+(vastly fewer than God perceives) by perceiving images of them; and it perceives those not by being  merely present to 
+them but by being a living substance. Without being present to them it couldn't perceive them, but (I 
+repeat) mere presence isn't enough. </Utterance>
+		<Utterance genid="26" ref="14">6 and </Utterance>
+		<Utterance genid="27" ref="14">7 <ref n="5"/> It's very true that the excellence of God's 
+workmanship consists in its manifesting not only his power but also his wisdom. But what  shows his wisdom 
+is his forming at the outset the perfect and complete idea of a work that began and still carries on in conformity with  that perfect 
+idea, doing this through the continual uninterrupted exercise of God's power and government. It is  not shown by his 
+making nature capable of going on without him (like someone making a clock); because that's  impossible. The powers of 
+a clock's weights and springs don't depend on men, -which is why a man can make a clock that will  continue to run without him-. 
+But there are no powers of nature that are independent of God, -which is why 
+nature can't possibly continue to run without him-. </Utterance>
+		<Utterance genid="28" ref="16">8 <ref n="5"/> The words ' correction' and 'amendment' are to be 
+understood -in the present context- in terms of our minds, not in terms of God's. For example: the present set-up of 
+the solar system, according to the present laws of motion, will in time fall into confusion; and after that it may be 
+'amended' or put into a new form. But this ' amendment' is relative to our conceptions--in performing it (if he does), 
+			God will be taking something that -is  confusing us, and making it -easier for us to understand; he won't be taking 
+something that -has gone wrong, and -fixing it-. In  reality, and from God's standpoint, the present set-up and the 
+consequent disorder and the ensuing 'amendment ' are all equally parts of the design embodied in the perfect idea that God
+			 had from the outset. -As for  longevity-: With the whole universe, as with any individual human body, God's 
+wisdom consists not in making it  eternal but in making it last as long as he sees fit. </Utterance>
+		<Utterance genid="29" ref="17">9 <ref n="5"/>
+			God
+			's wisdom and foresight don 't consist in his providing from the outset remedies that will automatically cure the disorders of 
+			nature.  Strictly speaking, from God's standpoint there aren't any disorders, so there aren't any 
+remedies  either; nor are there any powers of nature that can do things unaided (as weights and springs work unaided by 
+men). God's wisdom and foresight (I repeat) consist in his forming all at once a design that his power and government 
+is  continually carrying out. </Utterance>
+		<Utterance genid="30" ref="18">10 <ref n="5"/>
+			God is neither a mundane intelligence, nor a supra-mundane 
+intelligence. He  is an omnipresent intelligence, both inside the world and outside of it. He is in all, and through all, as well as being 
+above all. </Utterance>
+		<Utterance genid="31" ref="19">11 <ref n="5"/> -Leibniz agrees that God continually preserves things, but what does 
+that mean-? If God's conserving -or preserving- all things means his being actually at work preserving and continuing 
+the beings, powers,  orders, dispositions and motions of all things, -that is all I am arguing for. But if God
+			's  conserving things means merely a king's creating subjects who will be able to act well enough, for ever after, without his  
+interfering or giving them any orders, -this does indeed make him a real creator, but a 'governor' in name only.  </Utterance>
+		<Utterance genid="32" ref="20">
+12 <ref n="6"/> Leibniz's argument in this paragraph presupposes that everything that God does is supernatural or  
+miraculous; so what it's aiming at is to exclude all activity by God in governing and ordering the natural world.  In 
+fact, though, the distinction between 'natural' and 'supernatural' doesn't exist from God's standpoint; all it marks is 
+a difference between two ways that we have of thinking about things. Causing the sun or the earth to  move regularly is something we call 
+'natural': stopping its motion for a day we would call 'supernatural'; but neither of these needs more power than the 
+other, and from God's standpoint neither is more or less  natural or supernatural than the other. God
+'s being present in the world, or to the world, doesn't make him  the soul of the world.3 A soul is 
+part of a compound, the other part being a body, and they affect  each other as parts of the same whole. But
+			God
+			 is present to the world not as a -part but as -a governor; acting on everything and not acted on by anything. 
+He is not far from every one of us, for in him we and all things  live and move and have our beings. 'God governs all 
+things, not as a soul of the world but as the lord of the universe. . . "God" is a 
+relative word, carrying in its meaning the idea of  relation to servants. And God's divinity is his dominion <!-- = 
+&quot;command&quot; --> -not like the soul's command over the body, but that of a lord over his 
+servants. . . . In God all things  exist and move in him, but without interacting with him: the 
+movements of bodies have no effect on God,  and when they move they aren't obstructed by God's 
+omnipresence. . . . He is entirely without body or bodily  shape, so he can't be seen or heard or felt; and he ought not to be worshipped 
+through the representation of any physical thing. We  have ideas of his -attributes, but we don't know 
+what the -substance is of any thing. . . .'  Newton, Principia, General Scholium. </Utterance>
+	</Turn>
+	<Turn nickname="Leibniz" nr="3">Leibniz's third 
+paper (25 February 1716) <Utterance genid="33" ref="21">To Clarke's 1 <page n="6"/>
+		1 In  the usual sense of the phrase, 'mathematical 
+principles' concern only pure mathematics-i.e. numbers and figures, arithmetic and geometry. Whereas 'metaphysical' 
+principles concern more general notions, such as  cause and effect. </Utterance>
+		<Utterance genid="34" ref="21">2 Clarke grants me this important principle, that nothing 
+happens without a sufficient reason why it should be so rather  than otherwise. But he grants it only in words and in 
+reality denies it. This shows that he hasn't properly  understood the strength of it. That leads him to use as an example something that 
+exactly fits one of my demonstrations against -real  absolute space, -the idol of some modern Englishmen -including 
+Newton and Clarke-. (I'm not using 'idol'  in a theological way, but in a philosophical sense, following Bacon's thesis 
+that there are idols of the tribe and  idols of the cave, -and so on-.)
+ <!-- Let&apos;s get this clear: Leibniz knows that Clarke follows 
+Newton in -accepting &apos;real  absolute space&apos;, says that Clarke&apos;s &apos;Why-are-they-this-way-round?&apos; 
+argument is really part of  Leibniz&apos;s case -against real absolute space, and offers this as evidence that Clarke 
+doesn&apos;t have a proper  grasp of the issues.-As for the unexplained phrase &apos;real absolute space&apos;: 
+you&apos;ll do best to hold it in  mind and let its meaning grow out of the debate surrounding it. -->
+		</Utterance>
+		<Utterance genid="35" ref="21">3 So there we are: these 
+gentlemen maintain that space is a real absolute being, which leads them into great difficulties. -Here is just one-. 
+It seems that if there is such a being  as real absolute space, it must be eternal and infinite. That's why some people 
+have believed that space is God himself, or one of his attributes-namely the attribute of immensity. But
+			space doesn't fit with God, because space
+			 has parts. </Utterance>
+		<Utterance genid="36" ref="21">4  For my part, I have said several times that I hold space to be 
+something merely relative, as time is, taking space to be an order of coexistences, as time
+			 is an order of  successions. For space indicates. . . an order of things existing at the same time
+			, considered just  as existing together, without bringing in any details about what they are like. When we see a number of 
+things together, one becomes aware  of this order among them. <!-- Leibniz says that space indicates en termes de possibilite-&apos;in terms of  possibility&apos;-an order of things etc. Meaning? -->
+		</Utterance>
+		<Utterance genid="37" ref="21">5 As for those who imagine that space
+			 is a substance, or at  least that it is something absolute, I have many demonstrations to show them to be wrong. But
+			 just now I'll use only  one of these-the one that Clarke has opened the door to -in the section of his paper that I am discussing-. 
+The demonstration argues that  if space were an absolute being, something would be the case for which there couldn't 
+possibly be a sufficient  reason-which conflicts with my axiom, -and thus implies that space is not an absolute being-. 
+Here's how the  argument goes: (1) Space is something absolutely uniform; one point of space doesn't 
+differ in  any way from any other point of space. (I mean that it doesn't differ absolutely, i.e. apart from 
+differences in  what bodies there are at the two places.) Add to that the thesis that I am arguing against: (2) Space 
+is something in  itself, besides the order of bodies among themselves; -i.e. space is absolutely real-. From (1) and 
+(2) it follows that  (3) God could not possibly have had a reason for putting the material universe in space
+			 in this way  -rather than in some other way that retained the same spatial relations of bodies to one another -e.g. -rather 
+than rotating the world so  as to switch west to east. -That would conflict with the principle of sufficient reason; so it can't happen; 
+so premise (2) is  false-Q.e.d.- But if we replace (2) by (2*) Space is nothing but an 
+order or set of  relations among bodies, so that in the absence of bodies space is nothing at all except the 
+possibility of placing  them, then we don't get the conclusion (3), because the supposed two states--the universe where it is and -the 
+universe rotated  through 180 degrees-are not two states, but one; they are la m^eme chose, the same thing. We have the 
+illusion of  difference, coming from the fanciful supposition that space is a real independent entity; but
+			 in  reality the -supposed- two states are indistinguishable, so they are really one; so the question 'Why did God  
+choose this one rather than that?' doesn't arise. </Utterance>
+		<Utterance genid="38" ref="21">6 The same thing holds for time. Suppose someone -asks  'Why 
+didn't God did create everything a year sooner than he did?', -sees that this has no answer, and  -infers that 
+God has made a choice where there couldn't possibly be a reason for his choosing that way rather than  some other. I say that 
+his inference would be right if time was some thing distinct from things existing in time -or events 
+occurring in time-; for in that case it would indeed be impossible for there to be any reason  why events shouldn't 
+have occurred in exactly the order they did but at some different time. But what that 
+argument really proves is that times, considered without the things -or events-, are nothing  at all, and that they 
+consist only in the successive order of things -and events-. On that view of what time is, the  supposed 'two states of 
+affairs'--the world exactly as it is, and -the world as it is except for having started a year sooner  -don't differ at all, are 
+indiscernible, are really just one. </Utterance>
+		<Utterance genid="39" ref="21">7 It can be seen from all this that Clarke hasn't properly  understood my axiom, which he 
+rejects even while seeming to accept it. It's true, he says, that for any state of affairs there is a  sufficient reason why it is so 
+rather than otherwise, but he adds that this 'sufficient reason' is often simply  the mere will of God. 
+And he gives the example of the world's being located in space as it is  rather than as it would be if it were rotated 
+through 180 degrees. But this clearly involves saying that something does  happen without any sufficient reason for it, 
+namely God's making that choice; which conflicts with the axiom or  general rule about everything that is the case. 
+This involves sliding back into the loose indifference--the tolerance for the idea of  choice in the absence of any reason for choosing 
+one way rather than another--a view that I have abundantly refuted, showing it to be  utterly fictional even as applied to creatures, and 
+to be contrary to the wisdom of God because it implies that he  could act without acting by reason. </Utterance>
+		<Utterance genid="40" ref="21">8 Clarke 
+objects against me that if we don't admit this simple and mere will, we deprive God of the power of choosing and bring 
+in a fatality <!-- see note on page 6 --> . But the exact opposite is  true! I maintain that God has 
+the power of choosing, a power that is based on his having, in his wisdom, reasons for  his choices. This 'fatality' is nothing but the way the universe has been ordered by providence, -by God-, the wisest being; what has to be avoided is not 
+that, but a blind fatality, a necessity that has no wisdom or  choice in it. To Clarke's 2 </Utterance>
+		<Utterance genid="41" ref="22">
+			<ref n="6"/> 9 I had 
+remarked that a lessening of the amount of matter would lessen  the quantity of objects that God 
+could exercise his goodness on. Clarke answers that in the space  where there's no matter there are 
+other things on which God exercises his goodness. I don' t agree, because I hold every created substance is accompanied 
+by matter; but let that pass, -because  even if Clarke were right about that, it wouldn't answer the 
+point I had been making-. If there were space that  was empty of matter
+			but full of 
+those 'other things’, more matter could  also have been present in that space; and so its not being 
+there means a lessening in the number of objects God has to work with. The quip about -my implying that there ought to 
+be- a greater number of men or animals misses its target,  because more men or animals would fill places that could be occupied by other 
+things. To Clarke's 3 </Utterance>
+		<Utterance genid="42" ref="23">
+			<ref n="7"/> 10 It will be hard  to convince me that 'sensorium' in its usual meaning doesn't signify an 
+organ of sensation. See what Goclenius says about  the word in his philosophical dictionary. He calls it 'a barbarism used by some 
+scholastics aping the Greeks', and equates it  with 'organ of sensation' <!-- Leibniz quotes the passage in Latin --> . To Clarke's 4
+		</Utterance>
+		<Utterance genid="43" ref="24">
+			<ref n="7"/> 11 The mere presence of  a substance, even an animated one, is not sufficient for perception. A blind man, and even 
+someone whose thoughts are wandering, doesn 't see. Clarke should explain how the soul is aware of things outside 
+itself. To Clarke's 5 </Utterance>
+		<Utterance genid="44" ref="25">
+			<ref n="7"/> 12 God is present to things not by situation but by essence; 
+his presence shows in his immediate  operation. <!-- This sentence seems to rest on the idea that God&apos;s essence is 
+his power. So the thought is that  -God is present to everything not because he is everywhere but 
+because his essence = power is  everywhere; which goes with the thought that -God is present in a place not because he 
+is there but  because he acts there. We&apos;ll see in Clarke&apos;s 12 <ref n="14"/> that that&apos;s how he understands 
+the passage. --> The presence  of the soul is something else again. If we say 'It is spread all through the body', we 
+make it extended and  divisible. If we say 'It-the whole of it-is in every part of the body', we divide it from itself. All this talk 
+about ' fixing the soul to a point', 'spreading the soul across many points'-it's just  gabble, 
+idols of the tribe! </Utterance>
+		<Utterance genid="45" ref="27">To Clarke's 6-7
+			<ref n="7"/> 13 If the universe lost some of its active force by the  
+natural laws God has established, so that -later on- there was a need for him to give it a shove in order to restore  
+that force (like an artisan repairing his machine), this would involve something's going 'wrong' not  only from our 
+standpoint but also from God's. He could have prevented it by having a better plan  in the first 
+place-which is of course exactly what he did! To Clarke's 8 and 9 </Utterance>
+		<Utterance genid="46" ref="28">
+			<ref n="7"/> 14 When I said that Godhas 
+provided remedies for such disorders in advance, I wasn't saying that God lets the disorders occur and then  finds 
+remedies for them, but that he has found a way of preventing any disorders in the first place. To Clarke's 10</Utterance>
+		<Utterance genid="47" ref="30">
+			<ref n="8"/> 15 Clarke isn't getting anywhere with his criticism of my statement that God is intelligentia  supramundana. 
+Saying that God is -above the world isn't denying that he is -in the world. To Clarke's 11 </Utterance>
+		<Utterance genid="48" ref="31">
+			<ref n="8"/> 16 I 
+never gave any occasion to question that God's conservation is an actual preservation and  continuation of the beings, 
+powers, orders, dispositions, and motions -of all things-, and I think I may have explained this better than  many others have. But, says Clarke, 'that is all I am arguing for'. Well, what a relief! But in  fact there is much more than that to 
+our dispute. The questions -Does God act in the most regular and most perfect  manner? -Could his machine develop a 
+fault that he would have to repair by extraordinary means? -Can God's will  act without reason? -Is space
+			 is an absolute being? -What are miracles? and many others like them make a wide  difference between us. To Clarke's 12 
+		</Utterance>
+		<Utterance genid="49" ref="32">
+			<ref n="8"/> 17 Theologians won't agree with Clarke (against me) that from God's standpoint there is no 
+distinction between 'natural' and 'supernatural'; and most philosophers will  disagree with him even more strongly. There is an infinite 
+difference between these two, but evidently Clarke hasn't  thought hard about this. The supernatural exceeds all the 
+powers of created things. Here's a good example that I have used before: If God wanted to bring this about - a body 
+moves freely through the ether around a certain fixed centre, without any other  created thing acting on it - I say that this couldn't be 
+done without a miracle, because it can't be explained by the nature of bodies. What a free body moving along a curve 
+would naturally do -at any given moment- is to move away from the curve  along the -straightline- tangent to it. That's why I contend that 
+the attraction of bodies, properly so called, is a miraculous  thing-i.e. because it can't be explained by the nature 
+of bodies. </Utterance>
+	</Turn>
+	<Turn nickname="Clarke" nr="3">Clarke's third reply (15  May 1716) <Utterance genid="50" ref="33"> 1<page n="9"/> This concerns only the meaning 
+of words. We can accept Leibniz's definitions of 'mathematical' and 'metaphysical'; but -the fact 
+remains that- mathematical reasonings can  be applied to physical and metaphysical subjects. </Utterance>
+		<Utterance genid="51" ref="34">2 <ref n="9"/> For 
+anything that exists, there is a sufficient reason why it exists, and  why it is thus rather than so-there's no doubt about that. Clarke 
+writes next: : But in things in their own nature indifferent, mere will, without any thing external to 
+influence it, is alone that sufficient reason. informally  expressed: But when there are two options neither of which is 
+intrinsically better than the other, the sufficient reason  for someone's choosing option x rather than option y may be just that he 
+chooses x, without being caused by anything else to do so. <!-- The above &apos;informal expression&apos; serves to explain the word 
+&apos;indifferent&apos;, which here makes its first appearance  in this text, and will occur many times hereafter. --> 
+An example of this is God's creating or  placing a particle of matter in one place rather than in 
+another, when all places are in themselves alike. And this  example would still work even if space were not something 
+real but only the mere order of bodies: for  even then, it would be absolutely indifferent, and there could be no reason 
+except mere will, why three equal particles should be placed  in the order a-b-c rather than in the contrary order. So this point about 
+the indifferentness of all places doesn't generate an  argument showing that no space is real; because two regions of 
+			space that are perfectly alike are  still -really different or distinct one from another, -even if they are not in 
+themselves real things-. <!-- This paragraph is aimed at  Leibniz&apos;s 5 <page n="9"/>. --> The thesis that space is 
+not a real thing but merely the order of  bodies is obviously absurd -in a way that I didn't point out earlier-. According 
+to this thesis, if the solar system had been placed  where the remotest fixed stars now are, with all relationships of order and distance 
+exactly what they are in fact, -this would indeed  have been (as Leibniz rightly says) la m^eme chose, the same thing in effect; -
+but it would also imply that the solar  system would have been exactly where it is now, which is an explicit contradiction. 
+			<!-- Leibniz&apos;s la m^eme chose does indeed mean  &apos;the same thing&apos;. Adding &apos;in effect&apos; weakens the phrase; that was 
+Clarke&apos;s work, with no basis in Leibniz&apos;s  text. -->
+			<!-- Clarke says that this paragraph responds to something Leibniz said in a 
+private letter (we don&apos;t now have it). --> The  ancients didn't give the label 'imaginary space’ to all 
+space that is empty of  bodies, but only space that is outside the -material- world. And they 
+didn't mean that such space is not real,4 but only that we know nothing of what kinds of things are in 
+it. And if anyone did  ever call space 'imaginary', meaning by this that it isn't real, that's no argument that it isn 
+'t real! </Utterance>
+		<Utterance genid="52" ref="35">3 <ref n="9"/>
+			Space is not a being -or thing-, an eternal and infinite being -or thing-. Rather, it is 
+a  property-something that depends on the existence of a being that is infinite and eternal. Infinite space is 
+immensity. <!-- The term &apos;immensity&apos;, which we will meet often, means &apos;infinite largeness&apos;. It relates to 
+space as eternity relates to time (if we understand eternity to be existence through an infinitely  
+long stretch of time; not everyone does, because some think of eternity as timeless, but we can see from Clarke&apos;s 4 on page 2 that he isn&apos;t one of them). -->
+			But immensity is not 
+			God; so infinite space is not God. As for Leibniz's point about space
+			 having parts: there's no problem there, for the following reason. Infinite space is one, and is  absolutely 
+and essentially indivisible; it's a contradiction to think of it as being parted. what Clarke wrote: because there must be space
+			 in the partition itself; which is to suppose it parted and yet not parted at the same time.  what he may 
+have meant: because any partition of space1 would have to take place in space2, meaning  that 
+			space is (1) parted and yet (2) not parted at the same time. (See my 4 on page 7) God
+			's immensity or omnipresence doesn't imply that his substance is divisible into parts, any more than his existing  through 
+			time implies that his existence is divisible into parts. The only problem here arises from misusing the word  'parts' 
+by not giving it its literal meaning. </Utterance>
+		<Utterance genid="53" ref="36">4 <ref n="9"/> If space was nothing but the  order of 
+coexisting things, it would follow that if God moved the entire material world in a straight line, it would  remain in 
+the same place; and that however fast he moved it, and however abruptly he stopped it moving, nothing would be jolted. And if time
+			 was nothing but the order of succession of created things, it would follow that if God had 
+created the world millions of ages sooner than he did, it wouldn't have been created sooner at all. And Nothing doesn 't have any 
+dimensions, magnitudes, quantity, properties. -Space outside the world has all those, so obviously it  isn't nothing, 
+which is to say that it is real-. another point: space and time are quantities,  while situation and 
+order are not. </Utterance>
+		<Utterance genid="54" ref="37">5, </Utterance>
+		<Utterance genid="55" ref="38">6 <ref n="9"/> Leibniz argues like this: Space is uniform, with no part differing  from 
+any other. Therefore, if the bodies that were created in place A had been created in place B instead (with the spatial relations  amongst 
+them kept the same), then they would still have been created in place A, which is a manifest contradiction! The uniformity of 
+space does indeed prove that God couldn't have an external reason for creating things in one  place rather 
+than in another; but does that stop his own will from being in itself a sufficient reason for putting things  where he did 
+put them, when all places are indifferent or alike, and there is good reason to put things somewhere? <!-- Notice that Clarke  has here 
+started to expound an argument of Leibniz&apos;s and then switched it to one of his own (&apos;which is a manifest  contradiction&apos;). 
+He does then answer Leibniz&apos;s actual argument (about sufficient reasons), but without having  stated it first. --> 
+		</Utterance>
+		<Utterance genid="56" ref="39">7,</Utterance>
+		<Utterance genid="57" ref="40"> 8 <ref n="10"/> An intelligent and perfectly wise agent will always base his choices on any real differences there  are 
+between the options confronting him. But how will such an agent act in a case-like the location-of-matter
+			 example we have been discussing-where two ways of acting are equally good? To say that in such a case -God  
+can't act at all; and -if he could act, that would be an imperfection in him, because he wouldn't have any external reason to  move him to 
+act in one way rather than the other seems to deny that God has in himself any originating -energy-source  or -power of 
+beginning to act, and to maintain that he always needs (mechanically, as it were) to be pushed into acting -or deciding- by  some external 
+cause. </Utterance>
+		<Utterance genid="58" ref="41">9 <ref n="10"/> I presume that the exact amount of matter that the world now contains is what' s best for 
+the present frame of nature, or the present state of things; and that the state of the world would have been  less 
+satisfactory if the amount of matter had been greater (or less). So it's not true that having more matter
+			 would have provided a greater object for God to exercise his goodness on. </Utterance>
+		<Utterance genid="59" ref="42">10 <ref n="11"/> The  
+question is not what Goclenius means by 'sensorium', but what Newton means by it. . . . If Goclenius takes the  eye or ear 
+or any other organ of sensation to be the sensorium, he is certainly mistaken. But -that's irrelevant to  our issue-. When 
+a writer explicitly states what he means by any technical term, what's the point of asking what other meanings other  writers may have 
+given it. Scapula in his dictionary translates it as domicilium, the place where the mind resides. <!-- Actually,  Scapula&apos;s entry 
+for sensorium reads (in Latin): &apos;instrument of sensation; sometimes: place where the sense  resides&apos;. -->
+		</Utterance>
+		<Utterance genid="60" ref="43"> 11 <ref n="11"/> The reason why the soul of a blind man doesn't see is that some obstruction  prevents images 
+from being conveyed to the sensorium where the soul is present. We don't know how the soul of a 
+sighted man sees the images that are present to it; but we are sure that it can't perceive what is  not present to it, 
+because nothing can act or be acted upon in a place where it isn't!</Utterance>
+		<Utterance genid="61" ref="44"> 12 <ref n="11"/>
+			God, being  omnipresent, is 
+really present to everything both essentially and substantially. It's true that his presence at a place shows itself  by what he does 
+there, but he can't act there unless he is there.5 The soul is not omnipresent to  every part of the 
+body; so it doesn't and can't In a footnote Clarke quotes Newton in Latin, which he then translates as: God is 
+omnipresent, not only virtually but substantially; for a power can't exist without a  substance -that has it-. itself act 
+directly on every part of the body, but only on the brain and certain nerves and  spirits. These influence the whole body, 
+by virtue of laws and causal connections that God has appointed. </Utterance>
+		<Utterance genid="62" ref="45">13,</Utterance>
+		<Utterance genid="63" ref="46"> 14 <ref n="11"/> The fact that the 
+active forces6 in the universe grow less and so need new input -to keep up their level- is not  an inconvenience, a 
+disorder, an imperfection in the workmanship of the universe; it's simply a consequence of the nature of dependent 
+things. And the dependency of things is not something that needs to be fixed! The case of a human workman making a  machine is quite 
+different, because the powers or forces by which the machine continues to move are entirely  independent of the 
+workman. </Utterance>
+		<Utterance genid="64" ref="47">15 <ref n="11"/> The phrase intelligentia supramundana is quite all right when explained in Leibniz's  way. But
+			 without this explanation the phrase is very likely to lead to the wrong idea that God is not  really and 
+substantially present everywhere. </Utterance>
+		<Utterance genid="65" ref="48">16 <ref n="11"/> Here are my answers to the questions that Leibniz raises in his 16 :  Leibniz: 
+Does God act in the most regular and most perfect manner? Clarke: Yes. Leibniz: Could his machine develop a  fault that 
+he would have to repair by extraordinary means? Clarke: There are no faults in anything God makes; and when  he chooses 
+to alter the way things are going, this is no more 'extraordinary' than his choosing to keep them going in an  unaltered way. Leibniz: Can 
+			God's will act without reason? Clarke: As between two options that are in their own nature 
+absolutely equal and indifferent, God's will can freely choose -one of them-,  determining itself and not being acted 
+on by any external cause; and his ability to do this is a perfection in him. Leibniz: Is space is an absolute being? 
+Clarke: Space doesn't depend at all on the order or situation or existence  of bodies. Leibniz: What are miracles? 
+Clarke: See the next section.</Utterance>
+		<Utterance genid="66" ref="49"> 17 <ref n="12"/> We haven't been discussing the question of what  will be accepted by theologians and 
+philosophers; our topic has been the reasons men give for their opinions! If a miracle is simply  -something that exceeds the power of all 
+created things, then it doesn't take a miracle for a man to walk on the water, or for the  motion of the sun or the earth to be stopped; 
+because none of these things requires infinite power to bring it about. As for -Leibniz' s example of- a body in a vacuum circling around 
+a central point: -there are two cases-. (1) If this is a -usual event (such as the  planets moving around the sun), it isn't a 
+miracle-whether God brings it about immediately or indirectly through  some invisible created power. (2) If it's an 
+-unusual event (such as a heavy body hanging in the air and moving in a circle), then it  is a miracle-whether God 
+brings it about immediately or indirectly through some invisible created power. And a final  point: If we are to count as a miracle 
+anything that doesn't arise from (and can't be explained in terms of) the natural powers  of body, then every animal motion whatsoever is 
+a miracle. This seems to show conclusively that Leibniz's notion of a miracle is  erroneous. The phrase 'active force' 
+in this context refers only to -motion and -the impetus or relative  impulsive force of bodies that arises from their 
+motion and is proportional to it. That's because the discussion  of it that we have been having was prompted by this passage of Newton's: 
+'It appears that motion may be got or lost. But because of the stickiness of fluids. . . and the weakness of elasticity in 
+solids, motion is much more apt to be lost than got,  and is always decreasing. . . . Because the various kinds of motion that we find in 
+the world are always decreasing, there is a need for  them to be conserved and augmented by active sources.'</Utterance>
+	</Turn>
+	<Turn author="Leibniz" nr="4">Leibniz's fourth paper (2 June 1716) 
+	<Utterance genid="67" ref="51">To Clarke's 2 <page n="12"/> 1 When two options are absolutely 
+indifferent--meaning that there's nothing to choose between them--there is no  choice, and consequently no election or will, since choice 
+must be based on some reason or principle.</Utterance>
+		<Utterance genid="68" ref="51">2 A simple act of will without any  motive ('a mere will') is a fiction. It is -contrary to 
+			God's perfection, -chimerical and contradictory,  -inconsistent with the definition of will, and -sufficiently confuted 
+in my Theodicy.</Utterance>
+		<Utterance genid="69" ref="51"> 3 Regarding the order in which to place three equal  and perfectly alike particles-that's a case of indifferent 
+options, and consequently they will never be placed in any order by God, who does nothing without wisdom--and there 
+couldn't be any wisdom in arbitrarily choosing one out of a set of  indifferent options-. But -this doesn't imply that in 
+such cases God is stuck-. He is the author  of things--all things--and he doesn't ever produce such a thing as three 
+indiscernible particles; so no such thing occurs in nature.</Utterance>
+		<Utterance genid="70" ref="51"> 4 There is no such thing as a pair of individuals 
+that are indiscernible from each other. A lively-minded friend of  mine, discussing these matters with me in the 
+presence of the Princess Sophia in the garden of Herrenhausen, thought he  could find two leaves perfectly alike. The princess challenged 
+him to do it, and he spent ages running all over the garden look for such a  pair of leaves-without finding any. Two drops of water or 
+milk will turn out to be distinguishable from each other when viewed with a  microscope. This is an argument against atoms, which are 
+driven out -and empty space along with them-by the principles  of true metaphysics.</Utterance>
+		<Utterance genid="71" ref="51"> 5 The great principles of 
+-sufficient reason and the -identity of indiscernibles change the status of metaphysics.  They make metaphysics real and demonstrative, 
+whereas before it didn't amount to much more than empty words.</Utterance>
+		<Utterance genid="72" ref="51"> 6 'Suppose x and y  are two indiscernible things' comes down to 
+'Suppose x is y, and that this thing has two names'. What does this imply about  the hypothesis that the universe could right from the 
+outset have had a different spatial and temporal location from what it actually had,  with everything else about it-including the 
+spatio-temporal inter-relations among parts of the universe-remaining actually the same? It  implies that the hypothesis is an impossible 
+fiction.</Utterance>
+		<Utterance genid="73" ref="51"> 7 The reason why -space outside the world is imaginary is also  the reason why -all empty space
+			 is an imaginary thing. The only difference between -space that has  the world nested within it and -any 
+other stretch of space is that one is bigger than the other. </Utterance>
+		<Utterance genid="74" ref="52">To Clarke's 3 <ref n="13"/> 8 If space
+			 is a property or attribute, it must be the property of some substance. Well, what  about the bounded empty 
+			space that the friends of empty space say occurs between any two bodies? Of  what substance will 
+that space be a property?</Utterance>
+		<Utterance genid="75" ref="52"> 9 If infinite space -is immensity, finite space 
+will be the opposite to immensity, i.e. will be -measurability, or -limited extension. Now extension must be a property of  something 
+extended. But if the finite space we have been talking about is empty, it will be an attri
+bute without a subject, an extension without anything extended. The upshot is that when Clarke makes space  a 
+property, he falls in with my opinion, which makes it an order of things and not anything absolute. <!-- Leibniz is here arguing like  
+this: In saying that space is a -property, Clarke at least firmly rules out space&apos;s being a  
+thing; but given that there is often nothing for it to be a property of, he is left with &apos;not a thing&apos; and  
+&apos;not a property&apos;, from which he should infer the Leibnizian conclusion &apos;therefore, a -relation&apos;. -->
+		</Utterance>
+		<Utterance genid="76" ref="52"> 10 If 
+			space is an absolute reality--i.e. a thing--it will be even more thing-like (i.e. have more reality) than substances 
+themselves! God can't destroy it, or even change it in any respect. As well as being immense taken as a whole, it will 
+be  unchangeable and eternal in every part. There will be an infinity of eternal things besides God. </Utterance>
+		<Utterance genid="77" ref="52">11 To say 
+that  infinite space has no parts is to say -that it isn't made up of finite spaces, and -that  
+infinite space could continue to exist even if finite spaces were reduced to nothing. <!-- He adds 
+a  comparison, to highlight the absurdity. -->
+		</Utterance>
+		<Utterance genid="78" ref="52">12 In another of his writings <!-- Leibniz gives the reference --> Clarke attributes parts to space; but in his second paper he says they are parts improperly so 
+called-which may be  understood in a good sense. <!-- Clarke doesn&apos;t say this in his second paper as we have it. -->
+		</Utterance>
+		<Utterance genid="79" ref="53"> To 
+Clarke's 4 <ref n="14"/> 13  To say that God can make the whole universe move in a straight line (or any other line!) 
+without changing it in any  other way is another fantasy. For two states indiscernible from each other are the same state, so that this 
+'movement of the entire  world along a straight line' is a change that doesn't change anything. Besides, there is neither rhyme nor reason 
+in it; and God does nothing without reason, and it is impossible that there should be any here. . . . </Utterance>
+		<Utterance genid="80" ref="53">14 These 
+are idols of the  tribe <!-- Bacon&apos;s phrase, see page 9 --> , mere chimeras, and superficial imaginations. The only basis for this is 
+the supposition  that imaginary space is real. </Utterance>
+		<Utterance genid="81" ref="53">15 The supposition that God might move the 
+entire world is like the  fiction that he might have created the world some millions of years sooner-like it in being impossible! Anyone 
+who buys into fictions of  that sort will have to go along with those who argue for the eternity of the world. -Here is why-. God
+			 does nothing  without reason; no reason can be given why he didn't create the world sooner; so if he has indeed created the 
+world, then he created  it before any assignable time--i.e. for any time t, he created it earlier 
+than t because he had no  reason not to--which is to say that the world is eternal. But once it has been shown that the 
+beginning, whenever it was,  is always the same thing, that puts an end to the question 'Why didn't it occur earlier?'. </Utterance>
+		<Utterance genid="82" ref="55">To Clarke's 
+5, 6 <ref n="14"/> 16 If space and time were anything absolute, i.e. if they were anything 
+but  certain orders of things, then indeed my assertion would be a contradiction. But since it is not so, the 
+hypothesis -that space and time are something absolute- is contradictory, i.e. an impossible 
+fiction. </Utterance>
+		<Utterance genid="83" ref="55">17 This pattern  of argument is often used in geometry: we suppose that some figure is greater than it really is, and go 
+on from that to prove that it is  not greater. This is a contradiction all right, but the contradiction lies in the 
+hypothesis-the initial premise about the  size of the figure-which turns out to be false for just that reason. <!-- Just to make sure that 
+this is understood: Leibniz is referring  here to the perfectly valid argument-pattern in which one derives not-P from P, this being a 
+proof of not-P. He will use this same  argument-form in 22 and 23 on this page, and will comment on it in 28 on page 32 -->
+		</Utterance>
+		<Utterance genid="84" ref="57"> To 
+Clarke's 7, 8 <ref n="14"/> 18 Because space is uniform, there can't be any external or internal reason <!-- Leibniz 
+uses the English words --> by which  to -distinguish its parts from one another and -choose among them. For any external reason to 
+distinguish them, it would have to be  grounded on some internal one; otherwise (-i.e. if we gave some purely external reason for choosing 
+x rather than y-), we would either be  discerning something that is indiscernible or be choosing without discerning. A will without reason 
+would be mere Epicurean chance. A God who acted by such a will would be a God only in name. Clarke 
+got into these errors through not  taking care to avoid everything that detracts from the divine perfections.</Utterance>
+		<Utterance genid="85" ref="57"> 19 When two 
+incompatible things are equally good, with neither  having any advantage over the other (whether intrinsically or through their 
+combination with other things), God won 't produce either of them. </Utterance>
+		<Utterance genid="86" ref="57">20 God is never determined 
+by external things but always by what is in  himself, i.e. by what he knows in advance of anything's existing outside him.
+		</Utterance>
+		<Utterance genid="87" ref="58"> To Clarke's 9 <ref n="14"/> 21 There can't  possibly be a reason why the quantity of matter -in the universe- 
+should be limited; so it can't be limited. </Utterance>
+		<Utterance genid="88" ref="58">22  And if we start with the supposition that the quantity of matter 
+is somehow limited in some arbitrary way: It's  always possible for more matter to be added to this without lessening 
+the perfection of the things that do already  exist; therefore more matter must always be added, according to the 
+principle of the perfection of the divine  operations; -which means that our initial supposition of a limited amount of matter
+			 must be false-.</Utterance>
+		<Utterance genid="89" ref="58"> 23 So it can't  be said that the present quantity of matter is the 'best for the 
+present state of things'. Supposing it were:  it would follow that this present state or constitution of things wasn't the absolutely 
+best, because it would be blocking God from using more matter. So it would have been better if he 
+had chosen a different constitution of things,  one that was capable of something more, -namely the existence of more matter
+			. From which it follows that our initial  supposition 'There's a finite amount of matter, which is best for 
+the world's actual constitution'  must be false-.</Utterance>
+		<Utterance genid="90" ref="59"> To Clarke's 10 <ref n="14"/> 24 I'd like to see a passage from any philosopher 
+who takes 'sensorium'  in any other sense than Goclenius does. -Clarke scolds me for bringing Goclenius into the discussion, 
+but- I was right to  cite his Philosophical Dictionary, to show how 'sensorium' is usually understood. That's what dictionaries are 
+for. </Utterance>
+		<Utterance genid="91" ref="59">25 If  Scapula says that sensorium is the place where the mind resides, he means by it the organ of internal sensation; so he 
+doesn't differ  from Goclenius.</Utterance>
+		<Utterance genid="92" ref="59"> 26 'Sensorium' has always signified the organ of sensation. The pineal gland would be, according to 
+Descartes,  the sensorium in the sense that Clarke reports Scapula as giving it. </Utterance>
+		<Utterance genid="93" ref="59">27 Crediting God with having a 
+sensorium is just  about the worst thing one could say on this subject; it seems to imply that God is the soul
+			 of the  world. As for what Newton says using this word: it will be hard to find any interpretation that justifies it.</Utterance>
+		<Utterance genid="94" ref="59"> 28 
+The question is indeed  about Newton's sense for that word, not Goclenius's, Clarke shouldn't criticize me for quoting the Philosophical  
+Dictionary, because the design of dictionaries is to show the use of words. </Utterance>
+		<Utterance genid="95" ref="61">To Clarke's 11, 12 <ref n="14"/> 29 God
+			is aware of things in himself. <!-- This doesn&apos;t mean that God is aware of things that are in himself; 
+but rather that God&apos;s awareness of things is in some special way internal to him. -->
+			
+Space is the place of things and not the place of God's ideas. To put God's ideas  into 
+			space, we'd have to regard space as something that unites God with  things, along 
+the lines of the union of soul and body that some people believe in; and then we would be back to making God
+			 the soul of the world. </Utterance>
+		<Utterance genid="96" ref="61">30 Clarke also goes wrong when he compares God's  knowledge 
+and operation with the knowledge and operation of souls. Souls know things because God
+			 has put into them what Leibniz wrote next: un principe representatif de ce qui est hors d'elles. how Clarke  translated that: a 
+principle representative of things without. what Leibniz was getting at: a generator of representations of things  outside them. 
+But
+			God knows things because he is continually producing them. <!-- Clarke reports  difficulty with this 
+passage in his 30 on page 25. Both principe and &apos;principle&apos; could be used to mean &apos;source&apos; or  &apos;cause&apos; or 
+&apos;generator&apos;, and Clarke had that usage in his own repertoire: see for example &apos;physical cause or  &apos; near the end of 
+his discussion of Leibniz&apos;s 1-20 on page 50. -->
+		</Utterance>
+		<Utterance genid="97" ref="61">31 In my view, all there is to the soul's acting on things 
+is the fact that the body adapts itself to the soul's desires, by virtue of the harmony  that God 
+has pre-established between them. </Utterance>
+		<Utterance genid="98" ref="61">32 But those who fancy that the soul can  give a new 
+force to the body, and that God gives new force to the world so as to  fix the flaws in 
+his machine, make God too much like the soul by ascribing too much to the soul 
+and too little to God. </Utterance>
+		<Utterance genid="99" ref="61">33 Actually, God alone can give new force  to 
+			nature, and he does it only supernaturally. If he needed to do it in the natural course of events, that would  because 
+he had made a very imperfect work. He would then relate to the world in the way ignorant people think the soul  relates 
+to the body. </Utterance>
+		<Utterance genid="100" ref="61">34 Those who try to defend the vulgar opinion about the soul's influence over the body by  citing 
+			God's operating on things outside himself are-again!-making God too much like the soul
+			 of the world. Clarke's show of disapproval for my phrase intelligentia supramundana seems to tend that way. </Utterance>
+		<Utterance genid="101" ref="61"> 35 The 
+images that the soul immediately has are within it, but they -correspond to the images of the  body. 
+The soul can be present to something only in an imperfect way, which can be explained only in terms of that  
+-correspondence -between the soul's images and the bodily images-. <!-- The body&apos;s &apos;images&apos; are the  
+items referred to in the note on 3 on page 2 as the &apos;material counterparts or underlays&apos; of mental images. -->
+			But
+			
+			God's way of being present to something is perfect = complete, and is manifested by his operation.</Utterance>
+		<Utterance genid="102" ref="61"> 36 It 
+was  wrong of Clarke in arguing against me to help himself to the view that the soul's presence in the body is  
+connected with its influence over the body; for he knows that I reject that influence.</Utterance>
+		<Utterance genid="103" ref="61"> 37 It's no easier to make sense of the 
+			soul's being diffused throughout the -brain than of its being diffused through the -entire body. The difference  
+between those is only one of more and less.</Utterance>
+		<Utterance genid="104" ref="63"> To Clarke's 13, 14 <ref n="15"/> 38 Those who fancy that active force
+s  automatically decrease in the world don't properly understand the chief laws of nature or the beauty of God
+			's works.</Utterance>
+		<Utterance genid="105" ref="63"> 39 How are they going to show that this loss-of-force defect is a consequence of the  
+dependence of things? -I now proceed to show the exact opposite!- </Utterance>
+		<Utterance genid="106" ref="63">40 When one of our machines is flawed and has to be fixed, the 
+reason  this has happened is that the machine did not sufficiently depend on the man who made it--i.e. some of the machine's functioning 
+was  not sufficiently in accordance with the maker's design-. So nature's dependence on God,  far 
+from causing the flaw we have been discussing, is the reason why that flaw doesn't occur in nature. It's  because 
+			nature is so dependent on--so much in accordance with the designs of--a workman who is too perfect to make a  work that 
+needed to be mended. Every particular machine in nature is somewhat liable to go out of order; but not 
+the entire universe, which can't diminish in perfection.</Utterance>
+		<Utterance genid="107" ref="65"> To Clarke's 16 <ref n="15"/> 41 Clarke contends that space
+			 doesn't depend on the situation of bodies. I reply that it's true that space doesn't  depend on this or that 
+particular spatial lay-out of bodies, but it is the order that makes it possible for bodies to be  situated, and by which 
+they have a lay-out among themselves when they exist together, just as what Leibniz wrote: le temps est cet ordre  par rapport `a leur 
+position successive. what that means: time is that order with respect to their successive position.  what he may have 
+been getting at: time is the order that makes it possible for events to have a chronology among  themselves when they 
+occur at different times. If there were no created things, space and time would 
+only be in the ideas of God. </Utterance>
+		<Utterance genid="108" ref="66">To Clarke's 17 <ref n="15"/> 42 Clarke seems to acknowledge here  that his notion 
+of a miracle isn't the one that theologians and philosophers usually have. what Leibniz wrote next: Il me suffit  donc, que mes 
+adversaires sont obliges de recourir a ce qu'on appelle miracle dans l'usage receu et qu'on tache d' eviter en philosophisant. how Clarke 
+translated it: It is therefore sufficient for my purposes that my adversaries are obliged to have  recourse to what is commonly called a 
+miracle. a bit clearer and fuller: I'm satisfied to see that my adversaries have to avail  themselves of the ordinary everyday notion of 
+miracle-a notion that one tries to avoid in doing science. <!-- You&apos;ll see the point of  laying those out in that way when you look 
+at Clarke&apos;s extremely odd comment on this in his 42 on page 26. As for  &apos;science&apos;: in Leibniz&apos;s 
+time &apos;philosophy&apos; often referred to natural science as well as to what  you and I call 
+&apos;philosophy&apos;; and this is one of the places where that is certainly the case. -->
+		</Utterance>
+		<Utterance genid="109" ref="66"> 43 By altering the  -philosophically- 
+accepted sense of 'miracle', I'm afraid Clarke will get stuck with an awkward consequence. The nature of a miracle 
+doesn't have anything to do with usualness/unusualness; if it did, then monsters would be miracles. <!-- By &apos;monster&apos; Leibniz 
+here means &apos;human or other animal that has from birth physical features making it strikingly and  disquietingly unlike most members 
+of its species&apos;. -->
+		</Utterance>
+		<Utterance genid="110" ref="66">44 There are miracles at a lower level, which an angel can perform-e.g. making  a man walk on water 
+without sinking. But there are miracles that only God can perform, because they  exceed all natural 
+powers. Creating and annihilating are miracles of this kind.</Utterance>
+		<Utterance genid="111" ref="66"> 45 It is also a supernatural thing that bodies should  attract one 
+another at a distance without any intermediate means, and that a body should circulate without shooting off along a tangent,  though 
+nothing hinders it from doing that. For these effects can't be explained by the nature of things. </Utterance>
+		<Utterance genid="112" ref="66"> 46 What 's the 
+problem about explaining the -motions of animals through natural forces? It is true that the -beginnings of  animals 
+can't be explained in that way, any more than the beginning of the world can. P.S. All those who maintain that there is empty 
+space are influenced more by imagination than by reason. When I was a boy, I also bought into the notion of the -void <!-- = 
+&apos;empty space&apos; --> and -atoms, with which my imagination had a lovely time. Thinking  in 
+those terms, we take our inquiries no further than -those two things; they (as it were) nail our thoughts to them; we think that we  have 
+found the first elements of things, the rock bottom. We don't want nature to go any further, wanting it to be  finite, 
+like our minds. But then reason straightened me out, and showed me that this was sheer ignorance of the greatness  and 
+majesty of -God-, the author of things. In fact, the tiniest corpuscle is actually subdivided to infinity, and  
+contains a world of further creatures that the universe would lack if that corpuscle were an atom. . . Similarly, to postulate stretches  
+of empty space in nature is to ascribe to God a very imperfect work; it violates  
+the great principle of the necessity for a sufficient reason -for anything that is the case-. Plenty of people have paid lip-service to  
+that principle, but they haven't understood its true meaning; as I recently showed when I used the principle to show  
+-something that those payers of lip-service would never have expected to arise from it, namely- that space is only an  
+order of things, as time also is, and not an absolute being. Setting aside many other arguments that I have against 
+the  void and atoms, I'll present here the ones that I base on (1) God's perfection and (2) the necessity for a  
+sufficient reason. (1) I lay it down as a principle that God has actually given to each thing every perfection that he  
+could give to it without detracting from its other perfections. Now suppose there is a wholly empty region of space. 
+			God could have put matter into it without taking anything away from anything else; so he actually  
+has put matter in that region. -And that was just some region taken at random; the proof holds for any region-; so we  
+have the result that no region of space is completely empty; therefore the whole of space is full.  
+The same argument proves that -there are no atoms, i.e. that- every corpuscle is subdivided. <!-- The argument would go: Suppose there is  
+an atom. God could have made divisions without taking any perfection away from it or anything else; so he has done  
+that; so etc. --> (2) Here is a second argument, based on the need for a sufficient reason. There can't possibly be any principle to  
+settle what proportion of space should have matter in it. You might say that the right proportion 
+is  half, i.e. that there should be exactly as much filled space as empty space; but 
+			matter is more perfect than empty space, so reason requires that there should be more matter
+			 than vacuum-as much more as matter merits being preferred to vacuum. (-If matter is much  
+more perfect than vacuum, there should be much more filled space than empty space. If matter
+			 is just a little more perfect than vacuum, there should be just a little more filled space than empty-. ) 
+By  that reasoning, there should be no empty space at all, because the ratio of -perfection of matter
+ to  -perfection of vacuum is the ratio of -something to -nothing. A similar argument holds against atoms: what reason can anyone give 
+what nature should be limited in how finely it is subdivided? -And what principle could lay down how far down the  
+subdivision should go?- Atoms and the void are fictions, purely arbitrary and unworthy of true philosophy. The reasons Clarke gives for  
+empty space are mere sophisms.</Utterance>
+	</Turn>
+	<Turn nickname="Clarke" nr="4">Clarke's fourth reply (26 June 1716) <Utterance genid="113" ref="67">1, 2 
+			<page n="16"/> This  notion leads to universal necessity and fate, by supposing that motives relate to the will of an intelligent agent in 
+the same way that  weights relate to a balance (see Leibniz's 1 on page 4); so that a thinking agent can no more choose between two 
+absolutely  indifferent options than a balance can move itself when the weights on both sides are equal. The two are not on a par, because 
+of the  following difference between them. -A balance is not an agent, -i.e. doesn't act-, but is merely passive and acted 
+on  by the weights; so that when the weights are equal there is nothing to move it. But -thinking beings are agents; they 
+aren 't passive things that are moved by their motives as a balance is moved by weights; rather, they have active powers through which  
+they move themselves, sometimes upon the view of strong motives, sometimes upon weak ones, and some
+			times where things are absolutely indifferent. <!-- In that sentence, the phrase &apos;upon the view of&apos; is  
+Clarke&apos;s. --> Where the options are indifferent, there may still be very good reason to act. Leibniz always supposes the contrary, 
+on  principle; but he doesn't prove this, either from the nature of things or from the perfections of 
+			God. </Utterance>
+		<Utterance genid="114" ref="69">3, 4 <ref n="16"/> If this argument were right, it would prove that God did not and could 
+not  possibly create any matter at all! For the perfectly solid parts of all matter, if you take 
+them to  have the same shapes and sizes (which is always possible in supposition), are exactly alike; in which case it would be perfectly  
+indifferent if any two of them switched locations; and that, according to Leibniz's argument, makes it impossible for God
+			 to locate them in the places where he did actually locate them at the creation, because he could as easily have switched their  
+locations. Of course no two leaves are exactly alike, and perhaps no two drops of water are either; but that's  because 
+these are very -complex bodies. The case is very different with the parts of -simple solid matter. And even  with 
+complex bodies, it isn't impossible for God to make two of them-e.g. two drops of water-exactly alike. And if  he did 
+make them exactly alike, their alikeness wouldn't turn them into a single drop of water! Their locations would be different,  even though 
+it was absolutely indifferent which drop was placed in which location. The same reasoning holds regarding the choice between  this way and 
+that way when God was giving the world of matter its initial shove. </Utterance>
+		<Utterance genid="115" ref="71">5, 6 <ref n="16"/>  Two 
+things don't stop being two by becoming exactly alike. The parts of -time are as exactly like each other as  are the 
+parts of -space; yet two points of time aren't one and the same point of time
+-'one thing with two names’. If God had created the world right now, it wouldn't have been  created at the time
+			 when it actually was created. And if God did or could make the total bulk of matter 
+finite in size, then the material universe would have to be in its nature movable; for  nothing that is finite is 
+immovable. Thus, to say that God couldn't have made a different choice of when and where matter was 
+to exist is -to make matter necessarily infinite and eternal, and -to reduce all things  to necessity and fate. </Utterance>
+		<Utterance genid="116" ref="73">
+7 <ref n="16"/> If the material world is finite in size, space outside the world is real, not  imaginary. And empty 
+			spaces in the world aren't merely imaginary either. In a jar from which the air has been  pumped, a tiny quantity of 
+			matter-rays of light, and perhaps other stuff-still remains, but the lack of  resistance plainly shows 
+that most of that space is devoid of matter. The lack of resistance can 't be explained by the 
+			matter's being very subtle, i.e. very finely divided: liquid mercury is as finely  divided and as fluid as water, yet 
+it creates more than ten times as much resistance as water does; so its resistance  must arises from the quantity of 
+			matter that is involved, not from the largeness of the matter' s parts; -which confirms my 
+explanation of why the pumped-out jar offers so little resistance-.</Utterance>
+		<Utterance genid="117" ref="74"> 8 <ref n="16"/> Any region of empty space is 
+the property of an incorporeal substance--a substance that isn't made of matter-. Space is not 
+'bounded' by bodies, but exists equally within bodies and around them. Space isn't enclosed between 
+bodies; rather, bodies exist in unbounded space and are terminated -or  boundaried or bounded- by their own dimensions. 
+			<!-- Evidently meaning that what &apos;limits&apos; the size of a material thing is just  its size. -->
+		</Utterance>
+		<Utterance genid="118" ref="75">9 <ref n="16"/> Empty 
+			space is not 'an attribute without a subject’, because by  the phrase 'empty space’ 
+we never mean 'space that is empty of everything’ but only 'space that is empty of 
+body’. In all empty space
+			God is certainly present, and possibly many other substances that aren't 
+			matter-ones that can't be  felt by touch or detected by any of our other senses. </Utterance>
+		<Utterance genid="119" ref="76">10 <ref n="17"/>
+			Space
+			 is not a substance, but a  property; and if it's a property of something that is necessary it will (like any 
+other property of anything necessary) itself exist  necessarily; without being a substance, it will have a necessity of existence that 
+contingent substances lack. -Space  is immense, unchangeable and eternal; and so also is -duration. But 
+this doesn't at all imply that anything is  eternal other than God. For space and duration are not 
+other than or additional to God
+			<!-- Clarke twice uses the French hors de Dieu, echoing Leibniz&apos;s use of it inhis 
+10 on page 8 --> ; they are caused by  his existence-are immediate and necessary consequences of his existence.7 And without them he 
+wouldn't be eternal and omnipresent.</Utterance>
+		<Utterance genid="120" ref="77">11, 12 <ref n="17"/> -Infinites are composed of finites only in the sense in which -finites are 
+composed of infinitesimals. I have already  explained, in my 3 on page 13, in what sense space has or doesn't have 
+parts. In the body-related sense of the  word, 'parts' are separable, compounded, un-united, independent of each other, and movable from 
+each other. In contrast with  that, although we can partly grasp or imaginatively conceive infinite space as composed 
+of parts, those 'parts ' (improperly so-called) are essentially indiscernible from one another, immovable from one other, and not capable 
+of being split  off, because the idea of splitting one off from the rest involves an explicit contradiction in terms (see my 4 on page 7, 
+and my 3 on page  13). Thus, space is in itself essentially one, and absolutely indivisible. 'God is 
+eternal and  infinite, omnipotent and omniscient. That is, he lasts from eternity to eternity, and is present from infinity to infinity. 
+He governs  everything that exists, and knows everything that it is possible to know. He is not eternity or infinity, but 
+is eternal  and infinite. He isn't duration or space, but he. . . endures through all time
+			  and is present through all space; and by existing always and everywhere he establishes duration and 
+			space. <!-- Newton writes constituit, which Clarke translates as &quot;constitutes&quot;, but Newton is 
+using that  word in its now obsolete sense of &quot;establishes&quot; or &quot;sets up&quot;. --> Since every particle of space
+			 is  always, and every indivisible moment of duration is everywhere, the maker and lord of all things cannot be never and 
+nowhere. . . . His  omnipresence isn't just a matter of his power's being everywhere; a power can't exist without 
+substance  -that has it-; so he himself is everywhere.' Newton, Principia, General scholium.</Utterance>
+		<Utterance genid="121" ref="79"> 13 <ref n="17"/> If the world is 
+finite in size, it  can be moved by the power of God; so my argument based on that movableness is conclusive. Two 
+exactly alike places are  not the same place. Nor are the universe's being in motion and its staying at rest the same state. If a ship is 
+sailing smoothly  enough, a man shut up in the cabin can't tell whether it is moving or not; but that doesn't alter the 
+fact that  its moving and its not moving are not the same state! Whether or not the locked-up man can detect it, the motion of the ship is 
+a real  state with real effects (a different state and different effects from motionlessness); and if the ship suddenly stopped, that 
+would yield  other real effects; as would a sudden stopping of an indiscernible motion of the universe. No answer to this argument has 
+ever been given  -from Leibniz's side-. Newton emphasizes this at length in his Mathematical Principles, (Definition 8) 
+where from  the consideration of the properties, causes, and effects of motion, he shows the difference between -real motion (a body's 
+being  moved from one part of space to another) and -relative motion (bodies merely undergoing a change of the order 
+or  situation they have with respect to one other). This argument is a mathematical one. It shows from real effects 
+that  there may be real motion in the absence of relative motion, and relative motion in the absence of real motion. It isn't answered by  
+simply asserting the contrary.</Utterance>
+		<Utterance genid="122" ref="80"> 14 <ref n="17"/> The reality of space is not a 'supposition’, but 
+is proved by the above arguments, to which no answer has been given. Nor is any answer given to my other argument--in 4 on page  14—that 
+			space and time are quantities, which situation and order are not. </Utterance>
+		<Utterance genid="123" ref="81">15 <ref n="17"/> It wasn 't 
+impossible for God to have made the world sooner or later than he actually did; and it's not at all  impossible for him 
+to destroy it sooner or later than he actually will. As for the notion of the world's eternity: those who suppose matter
+ and space to be the same must indeed suppose that not only is the world infinite and eternal but it 
+necessarily must be so; just as necessarily as space and duration, which depend not on the will but on 
+the existence of God. <!-- Leibniz, as he will say in his 62 on page 40, doesn&apos;t  &apos;suppose 
+matter and space to be the same&apos;. This sentence of Clarke&apos;s seems to be a  side-swipe at 
+Descartes: someone who combines -Descartes&apos;s view that matter is the same as space with 
+-Clarke&apos;s own view about the nature of space and the necessity of  its existence will be 
+forced to the conclusion that the material world exists necessarily. -->
+			But  there is no problem here 
+for those who believe that God created as much matter as he pleased, and  where and when he pleased. 
+For God in his wisdom may have had very good reasons for creating this world at the  particular time 
+that he chose; and he may have created other kinds of things before this material world began, and may  create yet further kinds of things 
+after this world is destroyed.</Utterance>
+		<Utterance genid="124" ref="82"> 16, 17 <ref n="17"/> In my 4 on page 13 and my 13 on this page, I have  shown that space
+			 and time are not the mere order of things, but are real quantities  (which order and 
+situation are not). Leibniz hasn't answered those proofs. Until he does so, his assertion-which he says 'would  be a contradiction' if I 
+were right-has to be regarded as indeed being a contradiction. </Utterance>
+		<Utterance genid="125" ref="84">18 <ref n="18"/> The uniformity of all the  parts of space
+			 isn't an argument against God's acting in any part in any way he likes. God may have good 
+reasons to create finite beings, and finite beings have to be in particular places. All places are  basically alike (and would be so even 
+if place were nothing but the situation of bodies); so when God  places two indistinguishable cubes of 
+			matter this way rather than that, the two options are perfectly equal; but that doesn't mean that it is 
+unworthy of the perfections of God that he should choose one of them. There  may be very good reasons why both the 
+cubes should exist, and they can't exist except placed this way or that. -Also, Leibniz's  statement that 'A will without reason would be 
+mere Epicurean chance' is wrong-. Epicurean chance is not a choice of will, but a blind necessity of fate. </Utterance>
+		<Utterance genid="126" ref="85">19 <ref n
+="18"/> This argument (as I observed in my 3-4 on page 22), if it proves anything,  proves that God didn't and can't 
+create any matter at all. The options of different  initial locations for equal and exactly alike parts of 
+matter would have to be indifferent; as was also the first-shove  determination of their motions-this way or the opposite way.
+		</Utterance>
+		<Utterance genid="127" ref="86"> 20 <ref n="18"/> I don't see what this has to do with anything we have  been arguing about.</Utterance>
+		<Utterance genid="128" ref="87"> 21 <ref n="18"/> 'God
+			 cannot set limits to how much matter there is' -that is too weighty an assertion to be accepted without 
+proof. If he also can't limit how long matter lasts, then  the material world is both infinite and eternal necessarily 
+and independently of God. </Utterance>
+		<Utterance genid="129" ref="88">22, 23 <ref n="18"/> If this  argument were sound, it would prove that anything that 
+			God can do is something that he must do-can't help doing;  so that he can't help making everything infinite and 
+everything eternal. That would mean that he isn't a governor at all, but a mere necessary agent, i.e. not really an agent 
+at all but mere fate and nature and  necessity.</Utterance>
+		<Utterance genid="130" ref="90"> 24-28 <ref n="8a"/> Concerning the use of the 
+word sensorium <!-- this time Clarke uses the English  &apos;sensory&apos; --> , I have already said enough in my 10 on 
+page 11, my 3 on page 7, and my 3 on page 1 (but bear in  mind that Newton says only '. . . as it were the sensorium. . . 
+'). </Utterance>
+		<Utterance genid="131" ref="95">29 <ref n="18"/>
+			Space is the place of  all things and of all ideas; just as duration is the duration of all 
+things and of all ideas. This has no tendency to make God the soul of the world-see my 12 on page 8 
+			<!-- Clarke might also have referred to his 12 on page 15. -->  There is no union between God and the world. It would 
+be more proper to call the mind of man 'the soul of the images of things that it perceives' than to call God
+			 'the soul of the  world'-the world to which he is present throughout, acting on it as he pleases without 
+being acted on by it. I gave this answer in my  12 on page 14, but Leibniz repeats the same objection again and again, 
+without taking any notice of my answer. </Utterance>
+		<Utterance genid="132" ref="96">30 <ref n="25"/> I don't know what is meant by 'representative principle' <!-- see note in 
+30 on page 19 --> . The soul discerns things by -having the images of them conveyed to it through the sense-organs; 
+			God discerns things  by -being present to and in the substances of the things. Not by -producing them continually (for 
+he is now resting from his work of  creation), but by -being continually omnipresent to everything that he created at the 
+beginning. </Utterance>
+		<Utterance genid="133" ref="97">31 <ref n="19"/> Leibniz  holds that -the soul doesn't act on the body; -the body moves purely in 
+accord with -the laws of-  impact-mechanics; and yet -the body's movements conform to the will of the soul in all the 
+infinite variety of  spontaneous animal motion. That is a perpetual miracle! 'Pre-established harmony' is just a phrase, an invented 
+technical term.  It doesn't help in the slightest to explain this miraculous effect.</Utterance>
+		<Utterance genid="134" ref="98"> 32 <ref n="19"/> To suppose that in 
+spontaneous animal motion the soul has no effect on matter, and that all spontaneous animal motion 
+is performed through  impact-mechanics, is to reduce everything to mere fate and necessity. God acts on everything in 
+the world, in any way  he likes, without any 'union' without being acted on by anything-all that shows plainly the difference between an 
+omnipresent  governor and an imaginary soul of the world. </Utterance>
+		<Utterance genid="135" ref="99">33 <ref n="19"/> In the nature of 
+things, every action  is the giving of a new force to the thing that is acted on. Otherwise it's not really -action but  mere -passiveness; which is the case in all mechanical and inanimate passings-on of motion. <!-- The thought here is that 
+when any  inanimate thing x makes something else y move, all x does is to pass on to y some motion which came to it from something else. 
+In  inanimate systems motion is never originated. --> If the giving of a new force is supernatural, then every one of 
+			God's actions is supernatural, and he has no role in the workings of the natural world. And it follows also that  
+either -every human action is supernatural (-because it creates new force-) or -man is as much a mere machine as a  
+clock is (-because he never creates new force-). </Utterance>
+		<Utterance genid="136" ref="100">34, 35 <ref n="19"/> I have already shown the difference 
+between -the  true notion of God and -the notion of a soul of the world. See my 12 on page 11 and my 
+29 and 32  just above. </Utterance>
+		<Utterance genid="137" ref="102">36 <ref n="19"/> This has been answered in my 31 above.</Utterance>
+		<Utterance genid="138" ref="103"> 37 <ref n="19"/> The soul 
+is not 'diffused  throughout the brain'. It is present in one particular place, the sensorium.</Utterance>
+		<Utterance genid="139" ref="104"> 38 <ref n="19"/> This is a bare 
+assertion, without  proof. When two perfectly inelastic bodies meet in a head-on collision in which their forces are 
+equal, they both lose  their motion. And Newton has given a mathematical example in which the amount of motion is 
+continually falling and  rising, without any of it being passed on to other bodies (Optics, near end of Query 31).</Utterance>
+		<Utterance genid="140" ref="105"> 39 <ref n="19"/> 
+This loss of force is not a 'defect', as Leibniz here supposes. It is the just and proper nature of 
+inert matter. </Utterance>
+		<Utterance genid="141" ref="106">40 <ref n="20"/> If this argument is sound, it proves that -the material world must be infinite, 
+-that it must have  existed from eternity and must continue to eternity, and -that God must always have created as many 
+men, and as many  things of every other kind, as it was possible for him to create, and to have gone on doing this for as long a 
+time as  it was possible for him to do it. <!-- This item seems irrelevant to Leibniz&apos;s 40 on page 20; it is closer to 
+fitting his 23 on page  18. See Leibniz&apos;s puzzled comment on itin his 103 on page 45. -->
+		</Utterance>
+		<Utterance genid="142" ref="107"> 41 <ref n="20"/> I don't understand 
+the words the order (or  situation) that makes it possible for bodies to be situated. It seems to amount to saying that situation is the 
+cause of situation. <!--  Leibniz had written only of &apos;the order which &apos; etc.; the insertion of &apos;(or situation)&apos; was 
+Clarke&apos;s. --> As I  point out in my 13 and 14 two pages back, it has been shown that space is not merely the order 
+of bodies, and Leibniz  has not answered this. Also, it is obvious that time is not merely the order of things 
+succeeding each other, because  the -quantity of time may be greater or less while the -order of events remains the 
+same. . . . If there were no  created things, space and duration would be exactly the same as they are in actuality-
+			God's  ubiquity <!-- = &apos;everywhereness&apos; --> and the continuance of his existence would see to that.</Utterance>
+		<Utterance genid="143" ref="108"> 42 
+			<ref n="20"/> This is appealing  from reason to vulgar opinion, which philosophers should not do, because it is not the rule of truth. 
+			<!-- Leibniz in his 107 on page 46  thinks Clarke is referring to the &apos;vulgar opinion&apos; that the ordinary concept of miracle 
+shouldn&apos;t be used in science. He,  of course, couldn&apos;t know that Clarke in translating what he had written would omit the 
+mention of how science should be done. -->
+		</Utterance>
+		<Utterance genid="144" ref="109"> 43 <ref n="20"/> The concept of miracle does include unusualness. Think of things we 
+count as 'natural' although they are  absolutely wonderful and manifest enormous amounts of power-things like the movements of the 
+heavenly bodies, and the generation and  formation of plants and animals etc. Astounding as these are, they aren't miracles, simply 
+because they are common, usual. But it doesn't follow that everything unusual is a miracle. It might instead be only an 
+irregular and rarer effect of usual  causes-for example, eclipses, monstrous births <!-- see note to 43 on page 20 --> , madness in men, 
+and countless other things that the  vulgar call prodigies.</Utterance>
+		<Utterance genid="145" ref="110"> 44 <ref n="20"/> This concedes what I claimed; though it's contrary to 
+the common theological opinion to  suppose that an angel can perform a miracle.</Utterance>
+		<Utterance genid="146" ref="111"> 45 <ref n="20"/> That one body should attract 
+another -from a distance- without any  intermediate means-indeed this isn't a -miracle because it's -a contradiction! That's because it 
+supposes something to act  where it is not. But the means by which two bodies attract each other may be invisible and 
+intangible, quite different  from mechanism, and yet be something that acts so regularly and constantly that we can call it 'natural'-it's 
+much less  wonderful than animal motion, though that is never called a miracle. <!-- In these remarks of Clarke&apos;s and in 
+Leibniz&apos;s response  to them in his 118 on page 48, moyen = &apos;means&apos; is apparently being used in two senses at once. -There 
+is no how concerning the  attraction they are talking about, no means by which it is brought about; it just happens. But 
+the absence of a moyen is  also -the absence of any intervening link between the mutually attracting bodies. -->
+		</Utterance>
+		<Utterance genid="147" ref="112">46 <ref n="20"/> 
+If this is about forces that are 'natural' in the sense of being 'mechanical', then Leibniz is implying that all 
+animals, all men  even, are mere machines-as much so as a clock. But if 'natural' doesn't mean 'mechanical', then  
+gravitation may be brought about by forces that are regular and natural without being mechanical. <!-- Here and  
+throughout, &apos;mechanical&apos; and its cognates refer to the physics of collisions-impact-mechanics. --> N.B. <ref n="21"/> The  
+arguments offered in the postscript to Leibniz's fourth paper have been already answered in my replies above. All I need add here is  that 
+his view about the impossibility of atoms (physical atoms, that is; we aren't arguing about mathematical  atoms) is an 
+obvious absurdity. Either -there are perfectly solid particles of matter or -there are not. -If there are,  then 
+there's nothing conceptually wrong with supposing that they have parts that are all of the same size and shape; and those parts  would be 
+physical atoms that were perfectly alike. But -if there aren't any such perfectly solid particles, then there 's no 
+			matter at all in the universe. Here is why: When you divide and subdivide the parts of a body, trying to get  down to 
+the level where there are perfectly solid parts with no pores in them, the longer it takes you to reach that level the greater is  the 
+proportion of pores to solid matter in that body. -That's because at each level you will have a mixture of  pores and 
+			matter, and at each stage the matter you've reached is itself a mixture of pores and matter
+			, which. . . etc.- So if your division-and-subdivision goes on to infinity without your ever arriving at parts  that are 
+perfectly solid, i.e. contain no pores, it will follow that all bodies consist of pores only, without any matter at 
+all; which is plainly absurd. And the same pattern of argument applies with regard to the matter of which  the bodies 
+of any particular species are composed.</Utterance>
+	</Turn>
+	</Body>
+</Dialog>
